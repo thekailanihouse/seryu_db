@@ -1,4 +1,10 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "vendors": [
     {
     "id":1,
@@ -8,7 +14,7 @@
     "npwp":"21.016.720.1.-028.000",
     "address":"Komp. Ruko ITC Roxy Mas Blok C3 no.33-34, Jakarta Barat",
     "personInCharge":"Harry",
-    "phoneNumber":"0818803689",
+    "phoneNumber":0818803689,
     "email":"harry@sentralcargo.co.id"
     }
   ],
