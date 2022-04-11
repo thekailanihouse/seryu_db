@@ -10,15 +10,15 @@
   },
    "vendors": [
     {
-    "id":1,
-    "vendorName":"Aeronusa Inti Raya (Sentral Cargo)",
+    "id": 1,
+    "vendorName": "Aeronusa Inti Raya (Sentral Cargo)",
     "vendorTypeId": "Vendor External",
-    "termofPaymentId":7,
-    "npwp":"21.016.720.1.-028.000",
-    "address":"Komp. Ruko ITC Roxy Mas Blok C3 no.33-34, Jakarta Barat",
-    "personInCharge":"Harry",
-    "phoneNumber":"0818803689",
-    "email":"harry@sentralcargo.co.id"
+    "termofPaymentId": 7,
+    "npwp": "21.016.720.1.-028.000",
+    "address": "Komp. Ruko ITC Roxy Mas Blok C3 no.33-34, Jakarta Barat",
+    "personInCharge": "Harry",
+    "phoneNumber": "0818803689",
+    "email": "harry@sentralcargo.co.id"
     }
   ],
 }
